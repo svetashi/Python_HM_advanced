@@ -13,22 +13,3 @@ def reverse_kwargs(**words):
 
 print(reverse_kwargs(rev=True, acc="YES", stroka=4))
 
-
-
-
-
-
-
-
-
-
-
-# def reverse_kwargs(**words):
-#     new_dict = {}
-#     for key, value in words.items():
-#         new_dict = "{} , {}".format(value,key)
-
-
-
-# names = 'rev=True, acc="YES", stroka=4'
-# print(reverse_kwargs(names))
