@@ -1,0 +1,21 @@
+[
+  {
+    "name": "hm1",
+    "extension": ".py",
+    "type": "file"
+  },
+  {
+    "name": "test1",
+    "extension": ".txt",
+    "type": "file"
+  },
+  {
+    "name": "test2",
+    "extension": ".odt",
+    "type": "file"
+  },
+  {
+    "name": "test_folder",
+    "extension": "directory"
+  }
+]
